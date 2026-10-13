@@ -1,62 +1,27 @@
-<!-- 🌐 GitHub Portfolio de Firas Bouricha -->
-<h1 align="center">👋 Salut, je suis <span style="color:#007BFF;">Firas Bouricha</span></h1>
+<img src="github-banner.png" alt="Firas Bouricha, Ingénieur Cloud & Infrastructure" width="100%">
 
-<p align="center">
-  Étudiant & Mentor 
-</p>
+## Firas Bouricha
 
----
+**Ingénieur Cloud & Infrastructure** (en apprentissage) · Mentor IT @Ynov Sophia Antipolis · Nice, France
 
-### 💡 À propos de moi
+Je conçois, j'automatise et je sécurise des infrastructures, de la VM sur Proxmox jusqu'au pipeline CI/CD.
+Mastère Cloud, Sécurité & Infrastructure @Ynov (2025-2027). En parallèle, j'accompagne les étudiants en informatique comme mentor.
 
- **Aspirant Ingénieur infrastructure informatique & Automatisation**  
- Étudiant en Master Cloud, Sécurité & Infrastructure  
- Mentor à Ynov Sophia Antipolis (filière Informatique)  
- Basé à Nice, France  
+**Domaines :** administration systèmes · virtualisation · automatisation · cloud · sécurité
 
----
+**Outils :** Linux · Proxmox · Terraform / OpenTofu · Ansible · Docker · GitHub Actions · GLPI
 
+### Projets
 
-###  Objectif actuel
+| Projet | Ce que ça fait |
+|---|---|
+| [Home_Lab](https://github.com/firas-bouricha/Home_Lab) | Documentation et architecture de mon infrastructure auto-hébergée |
+| [vm-automation-via-glpi](https://github.com/firas-bouricha/vm-automation-via-glpi) | VM as a Service : une demande GLPI crée une VM Proxmox depuis un template (Terraform + Ansible) |
+| [Projet-_final_DevSecOps](https://github.com/firas-bouricha/Projet-_final_DevSecOps) | Pipeline CI/CD durci : Gitleaks, SOPS + age, Trivy, SBOM, CodeQL, déploiement conditionnel |
+| [Infrastructure-as-Code-Automatisation-Multi-VMs](https://github.com/firas-bouricha/Infrastructure-as-Code-Automatisation-Multi-VMs) | OpenTofu + Cloud-Init + Ansible : provisionnement multi-VMs, pare-feu, supervision |
+| [ytasty-crousty](https://github.com/firas-bouricha/ytasty-crousty) | Application fullstack conteneurisée : FastAPI, React, PostgreSQL, Docker |
+| [ynov-git-avance--fr](https://github.com/firas-bouricha/ynov-git-avance--fr) | Cours, TP et mini-projets Git que j'ai créés pour les étudiants Bachelor 1 |
 
-> 🎯  Développer mon expertise en **administration d’infrastructures sécurisées / Automatisation** et partager mes connaissances à travers le mentorat et des projets open-source..
+### Contact
 
----
-### 📌 Projets épinglés
-
-<div align="center">
-  
-🔹 [**🏠HOME_LAB**](https://github.com/fibou1/Home_Lab)  
-*Documentation technique et architecture de mon infrastructure auto-hébergée (HomeLab).*
-
-🔹 [**VM Automation via GLPI : VM AS A SERVICE(VMAAS)**](https://github.com/fibou1/vm-automation-via-glpi)  
-*Documentation techniqueAutomatiser la création d’une VM Proxmox à partir d’un template via Terraform, piloté par un playbook Ansible.*
-
-
-🔹 [**Projet DevSecOps**](https://github.com/fibou1/Projet-_final_DevSecOps)  
-*Pipeline CI/CD durci pour une application Node.js/Express : gouvernance Git stricte, sécurité Shift Left (hook pre-commit, Gitleaks), secrets chiffrés (age + SOPS), conteneurisation Docker scannée (Trivy, SBOM), CI bloquante (tests, Gitleaks, CodeQL) et déploiement automatisé conditionnel vers GitHub Pages (frontend) et Vercel (backend), avec healthcheck et gestion de la concurrence.*
-
-
-🔹 [**Projet_IAAC:opentofu + ansible **](https://github.com/fibou1/Infrastructure-as-Code-Automatisation-Multi-VMs)  
-*Le projet combine OpenTofu pour l'orchestration des machines virtuelles, Cloud-Init pour le pré-provisionnement, et Ansible pour le déploiement applicatif, la sécurité pare-feu et la supervision..*
-
-🔹 [**Go-tuto**](https://github.com/fibou1/Go-tuto)  
-*Cours et exercices autour du langage Go*
-
-🔹 [**ynov-git-avance--fr**](https://github.com/fibou1/ynov-git-avance--fr)  
-*Capsule pédagogique Git avancée pour étudiants Ynov (branches, merge, rebase, conflits, etc.).*
-
-
-</div>
-
----
-
-###  Me contacter
-
-✉️ firas.bouricha@ynov.com
-
-
----
-<p align="center">
-  <sub>© 2025 Firas Bouricha — Étudiant & Mentor Ynov Sophia Antipolis</sub>
-</p>
+[firas.bouricha@outlook.fr](mailto:firas.bouricha@outlook.fr) · [LinkedIn](https://www.linkedin.com/in/firas-bouricha/) · [Portfolio](https://firas-bouricha.github.io/firas_bouricha/)
